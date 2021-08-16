@@ -1,6 +1,7 @@
 # virtuous-cycle
 To kick off my coding journey in 2019, I developed a simple static site here, deployed on a Mercury server for renting great bicycles (hence, the name).
 [virtuous-cycle.zip](https://github.com/claratangfl/virtuous-cycle/files/6993387/virtuous-cycle.zip)
+
 This is done through HTML5 content and CSS presentation, which are kept separate. 
 Accessibility guidelines have been followed, especially for media, tables and forms.
 
@@ -12,7 +13,7 @@ On my site are the following web pages linked by a common menu:
 		* All form values, except the comment textarea are ‘required’ or have a default value (e.g. select, checkbox, radio). 
 		* The user should not be able to submit the form if any of these required fields are blank.
 		* The form will have the following form controls:
-			1. First name: type text , maximum of 25 characters, alphabetical only
+			* 1. First name: type text , maximum of 25 characters, alphabetical only
 			2. Last name: type text, maximum of 25 characters, alphabetical only
 			3. Email address: type email
 			4. Address (group these inputs with a fieldset and label)
