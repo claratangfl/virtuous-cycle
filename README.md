@@ -12,7 +12,7 @@ On my site are the following web pages linked by a common menu:
 		* All inputs should have labels.  
 		* All form values, except the comment textarea are ‘required’ or have a default value (e.g. select, checkbox, radio).  
 		* The user should not be able to submit the form if any of these required fields are blank.  
-		* The form will have the following form controls:  
+		* The form will have the following form controls:    
 			* 1. First name: type text , maximum of 25 characters, alphabetical only  
 			2. Last name: type text, maximum of 25 characters, alphabetical only  
 			3. Email address: type email
