@@ -5,10 +5,10 @@ To kick off my coding journey in 2019, I developed a simple static site here, de
 This is done through HTML5 content and CSS presentation, which are kept separate. 
 Accessibility guidelines have been followed, especially for media, tables and forms.
 
-On my site are the following web pages linked by a common menu: 
-* An introductory / home page *(index.html)* 
-* A product description page detailing three bicycle options *(product.html)*
-* A product enquiry page for interested parties to detail their request in a form *(enquire.html)* 
+On my site are the following web pages linked by a common menu:  
+1. An introductory / home page *(index.html)*  
+2. A product description page detailing three bicycle options *(product.html)*  
+3. A product enquiry page for interested parties to detail their request in a form *(enquire.html)* 
 		* All inputs should have labels. 
 		* All form values, except the comment textarea are ‘required’ or have a default value (e.g. select, checkbox, radio). 
 		* The user should not be able to submit the form if any of these required fields are blank.
