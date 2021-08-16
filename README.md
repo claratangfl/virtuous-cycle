@@ -9,12 +9,12 @@ On my site are the following web pages linked by a common menu:
 1. An introductory / home page *(index.html)*  
 2. A product description page detailing three bicycle options *(product.html)*  
 3. A product enquiry page for interested parties to detail their request in a form *(enquire.html)* 
-		* All inputs should have labels. 
-		* All form values, except the comment textarea are ‘required’ or have a default value (e.g. select, checkbox, radio). 
-		* The user should not be able to submit the form if any of these required fields are blank.
-		* The form will have the following form controls:
-			* 1. First name: type text , maximum of 25 characters, alphabetical only
-			2. Last name: type text, maximum of 25 characters, alphabetical only
+		* All inputs should have labels.  
+		* All form values, except the comment textarea are ‘required’ or have a default value (e.g. select, checkbox, radio).  
+		* The user should not be able to submit the form if any of these required fields are blank.  
+		* The form will have the following form controls:  
+			* 1. First name: type text , maximum of 25 characters, alphabetical only  
+			2. Last name: type text, maximum of 25 characters, alphabetical only  
 			3. Email address: type email
 			4. Address (group these inputs with a fieldset and label)
 			5. Street address: type text, maximum of 40 characters
